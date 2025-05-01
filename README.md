@@ -18,7 +18,7 @@ Tailwind
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
-⚡ Interested in Javascript, Vuejs and the other modern Front-end technologies, 
+⚡ Interested in Javascript, Vuejs and TypeScript and the other modern Front-end technologies, 
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
