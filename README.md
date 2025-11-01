@@ -1,10 +1,11 @@
 ### I'm Saeedeh Karimi!👋
 <!-- - 🔭 I’m currently working on ... -->
-Motivated junior front-end developer with a remarkable foundation in JavaScript, Vue.js, HTML, CSS, and REST APIs. Skilled in developing responsive and resilient web applications. 
+Motivated junior software developer with a foundation in Java, JavaScript, Vue.js, HTML, CSS, and REST APIs. Skilled in developing responsive and resilient web applications. 
 
 Passionate about contributing to functional and technical design, writing clean and maintainable code, and enhancing existing codebases. Committed to delivering software solutions with a customer-focused approach. Skilled in UI principles, problem-solving, and effective collaboration within development teams. Eager to be involved in enterprise projects.
 
 Skilled in: 
+Java/Python
 HTML
 CSS
 JavaScript
@@ -18,7 +19,7 @@ Tailwind
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
-⚡ Interested in Javascript, Vuejs and TypeScript and the other modern Front-end technologies, 
+⚡ Interested in Java, JavaScript, Vuejs and TypeScript and the other modern Front-end technologies, 
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
