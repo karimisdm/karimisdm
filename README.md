@@ -1,6 +1,6 @@
 ### I'm Saeedeh Karimi!👋
 <!-- - 🔭 I’m currently working on ... -->
-Motivated junior software developer with a foundation in Java, JavaScript, Vue.js, HTML, CSS, and REST APIs. Skilled in developing responsive and resilient web applications. 
+Motivated software developer with a foundation in Java, JavaScript, Vue.js, HTML, CSS, and REST APIs. Skilled in developing responsive and resilient web applications. 
 
 Passionate about contributing to functional and technical design, writing clean and maintainable code, and enhancing existing codebases. Committed to delivering software solutions with a customer-focused approach. Skilled in UI principles, problem-solving, and effective collaboration within development teams. Eager to be involved in enterprise projects.
 
