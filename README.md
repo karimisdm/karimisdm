@@ -6,11 +6,10 @@ Passionate about contributing to functional and technical design, writing clean 
 
 Skilled in: 
 Python
-HTML
-CSS
 JavaScript
 VueJs3
 React
+NextJS
 Tailwind
   <!-- 🌱 Currently working on high-performance data-intensive applications. -->
  
